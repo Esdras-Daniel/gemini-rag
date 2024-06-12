@@ -1,0 +1,10 @@
+langchain
+langchain_experimental
+langchain_core
+google-generativeai
+google-ai-generativelanguage
+langchain-google-genai
+docarray
+PyPDF2
+python-dotenv
+streamlit
